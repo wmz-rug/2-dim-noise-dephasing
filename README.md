@@ -8,7 +8,7 @@ This repository contains the simulation code accompanying the paper:
 
 Accepted by Phys.Rev.D (2025)
 
-DOI: *TBD*
+DOI: [10.1103/hfxv-c598] https://doi.org/10.1103/hfxv-c598
 
 arxiv: [2507.00280] https://arxiv.org/abs/2507.00280v2
 
